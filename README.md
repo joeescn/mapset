@@ -1,5 +1,11 @@
 # MapSet - 一个泛型的 Map Set 类型库
 
+## 使用
+
+```shell
+go get -u github.com/joeescn/mapset
+```
+
 ## 示例
 
 ```golang
